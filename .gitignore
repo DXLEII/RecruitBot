@@ -1,0 +1,12 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+
+# Virtual Environment
+myenv/
+
+.env
+
+
